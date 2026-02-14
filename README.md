@@ -1,11 +1,11 @@
-Local Pharmacy Business & Competitor Analysis (Excel Dashboard)
-Project Overview
+# Local Pharmacy Business & Competitor Analysis (Excel Dashboard)
+# Project Overview
 
 This project involves a detailed business study of a local medical shop, Kamalika Kemists (ESTD. 1995), with a comparative analysis against nearby competitors. The objective was to understand the shop’s revenue mix, profitability, customer experience, operations, and competitive positioning using a structured Excel dashboard.
 
 The analysis is based on primary observations, customer feedback, and comparative benchmarking.
-
-Objectives
+ 
+# Objectives
 
 Analyze the business performance of a local medical shop
 
@@ -17,7 +17,8 @@ Compare competitors on pricing, service, margins, and digital presence
 
 Present insights through an interactive Excel dashboard
 
-Scope of Analysis
+# Scope of Analysis
+
 Business Performance
 
 Revenue split between medicines and cosmetics
@@ -36,7 +37,7 @@ Ratings for availability, delivery speed, staff behavior, packaging, and knowled
 
 Overall customer satisfaction score
 
-Operational Insights
+# Operational Insights
 
 Staff strength and roles
 
@@ -46,7 +47,7 @@ License renewal cycle
 
 Expired medicine reimbursement practices
 
-Competitor Analysis
+# Competitor Analysis
 
 Competitors evaluated:
 
@@ -56,7 +57,7 @@ Santosh Medical
 
 Wellcare Medicos
 
-Comparison dimensions:
+# Comparison dimensions:
 
 Pricing and discount strategy
 
@@ -68,7 +69,7 @@ Delivery and digital capabilities
 
 Service orientation vs price aggressiveness
 
-Dashboard Highlights
+# Dashboard Highlights
 
 Revenue and order channel visualization
 
@@ -82,7 +83,7 @@ Radar and bar charts for service vs price positioning
 
 All insights are consolidated into a single, easy-to-interpret Excel dashboard.
 
-Key Insights
+# Key Insights
 
 Medicines contribute the majority of revenue, while cosmetics offer slightly higher margins
 
@@ -94,7 +95,7 @@ Competitors focus more on discounts and diversification, while Kamalika Kemists 
 
 High customer satisfaction reflects operational consistency and staff knowledge
 
-Tools Used
+# Tools Used
 
 Microsoft Excel
 
@@ -104,7 +105,7 @@ Charts and dashboard design
 
 Primary data collection and observation
 
-Business Value
+# Business Value
 
 Demonstrates real-world retail analytics using Excel
 
@@ -114,6 +115,6 @@ Useful for small business strategy, retail analytics, and competitive analysis
 
 Highlights decision-making based on customer experience and financial metrics
 
-Author
+# Author
 
 Parv
